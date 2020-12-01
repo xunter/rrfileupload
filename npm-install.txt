@@ -1,0 +1,5 @@
+npm install react-router react-router-dom redux react-redux redux-thunk antd node-uuid prop-types
+npm install --save-dev @types/react-router @types/react-router-dom @types/redux @types/react-redux @types/redux-thunk @types/antd @types/node-uuid
+
+tutorial: 
+https://github.com/maxfarseer/react-redux-file-upload-example
